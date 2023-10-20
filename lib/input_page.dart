@@ -62,6 +62,7 @@ class _InputPageState extends State<InputPage> {
                             size: 80.0,
                             color: Colors.white,
                           ),
+
                           SizedBox(
                             height: 15.0,
                           ),
